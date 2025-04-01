@@ -5,7 +5,7 @@ function PokemonCard() {
         src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
         alt="Charmander"
       />
-      ,<figcaption>Chamander</figcaption>
+      <figcaption>Charmander</figcaption>
     </figure>
   );
 }

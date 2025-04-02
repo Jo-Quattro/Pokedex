@@ -39,7 +39,7 @@ function App() {
 
   return (
     <div>
-      <PokemonCard pokemon={pokemon} />
+      <PokemonCard name={pokemon.name} imgSrc={pokemon.imgSrc} />
       <nav>
         {pokemonList.map((pokemon) => (
           <button
